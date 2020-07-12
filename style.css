@@ -1,0 +1,17 @@
+.myimg{
+    max-width: 60px;
+    max-height: 60px;
+    object-fit: scale-down;
+    border-radius: 50%;
+}
+
+.shadow-textarea textarea.form-control::placeholder {
+    font-weight: 300;
+}
+.shadow-textarea textarea.form-control {
+    padding-left: 0.8rem;
+}
+
+#hidden{
+    visibility: hidden;
+}
